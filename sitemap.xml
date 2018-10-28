@@ -4,17 +4,7 @@
   
   <url>
     <loc>http://chetannc.guthub.io/</loc>
-    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://chetannc.guthub.io/docs/</loc>
-    <lastmod>2018-08-12T12:30:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://chetannc.guthub.io/typography/</loc>
-    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
+    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -22,103 +12,8 @@
   </url>
   
   <url>
-    <loc>http://chetannc.guthub.io/docs/katex-support/</loc>
-    <lastmod>2018-08-12T12:30:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://chetannc.guthub.io/docs/search-fuse-js/</loc>
-    <lastmod>2018-07-20T20:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://chetannc.guthub.io/docs/search-algolia/</loc>
-    <lastmod>2018-07-05T23:30:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://chetannc.guthub.io/docs/search-lunr-js/</loc>
-    <lastmod>2018-07-05T20:30:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://chetannc.guthub.io/docs/search-support/</loc>
-    <lastmod>2018-07-06T01:30:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://chetannc.guthub.io/docs/comments-support/</loc>
-    <lastmod>2018-06-29T19:30:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://chetannc.guthub.io/docs/emoji-support/</loc>
-    <lastmod>2018-02-27T21:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://chetannc.guthub.io/docs/mathjax-support/</loc>
-    <lastmod>2018-02-27T18:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://chetannc.guthub.io/docs/sidebar/</loc>
-    <lastmod>2018-03-29T05:20:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://chetannc.guthub.io/docs/widgets/</loc>
-    <lastmod>2018-07-06T01:30:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://chetannc.guthub.io/docs/shortcodes/</loc>
-    <lastmod>2017-10-05T20:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://chetannc.guthub.io/docs/cover-image/</loc>
-    <lastmod>2018-06-04T23:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://chetannc.guthub.io/docs/translation/</loc>
-    <lastmod>2017-09-27T14:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://chetannc.guthub.io/docs/syntax-highlighting/</loc>
-    <lastmod>2017-09-27T12:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://chetannc.guthub.io/docs/menus/</loc>
-    <lastmod>2018-05-24T02:10:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://chetannc.guthub.io/docs/opengraph/</loc>
-    <lastmod>2017-10-11T18:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://chetannc.guthub.io/docs/authors/</loc>
-    <lastmod>2017-10-11T17:30:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://chetannc.guthub.io/docs/config-file/</loc>
-    <lastmod>2018-02-08T15:15:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://chetannc.guthub.io/docs/updating/</loc>
-    <lastmod>2018-02-08T14:45:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://chetannc.guthub.io/docs/installation/</loc>
-    <lastmod>2018-02-08T15:00:00+06:00</lastmod>
+    <loc>http://chetannc.guthub.io/post/new-post/</loc>
+    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -137,35 +32,32 @@
   
   <url>
     <loc>http://chetannc.guthub.io/tags/config/</loc>
-    <lastmod>2018-08-12T12:30:00+06:00</lastmod>
   </url>
   
   <url>
     <loc>http://chetannc.guthub.io/tags/og/</loc>
-    <lastmod>2017-10-11T18:00:00+06:00</lastmod>
   </url>
   
   <url>
     <loc>http://chetannc.guthub.io/page/</loc>
-    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://chetannc.guthub.io/post/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://chetannc.guthub.io/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://chetannc.guthub.io/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -180,79 +72,7 @@
   
   <url>
     <loc>http://chetannc.guthub.io/tags/</loc>
-    <lastmod>2018-08-12T12:30:00+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://chetannc.guthub.io/categories/tutorial/</loc>
-    <lastmod>2018-02-08T14:45:00+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://chetannc.guthub.io/tags/algolia/</loc>
-    <lastmod>2018-07-05T23:30:00+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://chetannc.guthub.io/tags/authors/</loc>
-    <lastmod>2017-10-11T17:30:00+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://chetannc.guthub.io/tags/chroma/</loc>
-    <lastmod>2017-09-27T12:00:00+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://chetannc.guthub.io/categories/features/</loc>
-    <lastmod>2018-08-12T12:30:00+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://chetannc.guthub.io/tags/fuse.js/</loc>
-    <lastmod>2018-07-20T20:00:00+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://chetannc.guthub.io/tags/i18n/</loc>
-    <lastmod>2017-09-27T14:00:00+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://chetannc.guthub.io/tags/katex/</loc>
-    <lastmod>2018-08-12T12:30:00+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://chetannc.guthub.io/tags/lunr.js/</loc>
-    <lastmod>2018-07-05T20:30:00+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://chetannc.guthub.io/tags/menus/</loc>
-    <lastmod>2018-05-24T02:10:00+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://chetannc.guthub.io/authors/muniftanjim/</loc>
-    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://chetannc.guthub.io/categories/others/</loc>
-    <lastmod>2018-02-08T15:15:00+06:00</lastmod>
+    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -263,38 +83,8 @@
   </url>
   
   <url>
-    <loc>http://chetannc.guthub.io/tags/pygments/</loc>
-    <lastmod>2017-09-27T12:00:00+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://chetannc.guthub.io/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://chetannc.guthub.io/tags/search/</loc>
-    <lastmod>2018-07-20T20:00:00+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://chetannc.guthub.io/tags/shortcode/</loc>
-    <lastmod>2017-10-05T20:00:00+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://chetannc.guthub.io/tags/translation/</loc>
-    <lastmod>2017-09-27T14:00:00+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://chetannc.guthub.io/tags/widgets/</loc>
-    <lastmod>2018-07-06T01:30:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   
