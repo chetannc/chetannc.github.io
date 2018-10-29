@@ -3,97 +3,97 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>http://chetannc.guthub.io/</loc>
     <lastmod>2018-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>http://chetannc.guthub.io/about/</loc>
   </url>
   
   <url>
-    <loc>/post/error-post/</loc>
+    <loc>http://chetannc.guthub.io/post/error-post/</loc>
     <lastmod>2018-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/new-post/</loc>
+    <loc>http://chetannc.guthub.io/post/new-post/</loc>
     <lastmod>2018-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/error2/</loc>
+    <loc>http://chetannc.guthub.io/post/error2/</loc>
     <lastmod>2018-10-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>http://chetannc.guthub.io/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>http://chetannc.guthub.io/authors/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>http://chetannc.guthub.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/config/</loc>
+    <loc>http://chetannc.guthub.io/tags/config/</loc>
   </url>
   
   <url>
-    <loc>/tags/og/</loc>
+    <loc>http://chetannc.guthub.io/tags/og/</loc>
   </url>
   
   <url>
-    <loc>/page/</loc>
+    <loc>http://chetannc.guthub.io/page/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>http://chetannc.guthub.io/post/</loc>
     <lastmod>2018-10-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/r/</loc>
+    <loc>http://chetannc.guthub.io/categories/r/</loc>
     <lastmod>2018-10-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/r-markdown/</loc>
+    <loc>http://chetannc.guthub.io/tags/r-markdown/</loc>
     <lastmod>2018-10-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/search/</loc>
+    <loc>http://chetannc.guthub.io/search/</loc>
   </url>
   
   <url>
-    <loc>/series/</loc>
+    <loc>http://chetannc.guthub.io/series/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>http://chetannc.guthub.io/tags/</loc>
     <lastmod>2018-10-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/plot/</loc>
+    <loc>http://chetannc.guthub.io/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/regression/</loc>
+    <loc>http://chetannc.guthub.io/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>

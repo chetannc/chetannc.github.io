@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Chetan Nagabandla</title>
-    <link>/tags/</link>
+    <link>http://chetannc.guthub.io/tags/</link>
     <description>Recent content in Tags on Chetan Nagabandla</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 28 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://chetannc.guthub.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Configuration</title>
-      <link>/tags/config/</link>
+      <link>http://chetannc.guthub.io/tags/config/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/config/</guid>
+      <guid>http://chetannc.guthub.io/tags/config/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Opengraph</title>
-      <link>/tags/og/</link>
+      <link>http://chetannc.guthub.io/tags/og/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/og/</guid>
+      <guid>http://chetannc.guthub.io/tags/og/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
+      <link>http://chetannc.guthub.io/tags/r-markdown/</link>
       <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/r-markdown/</guid>
+      <guid>http://chetannc.guthub.io/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plot</title>
-      <link>/tags/plot/</link>
+      <link>http://chetannc.guthub.io/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/plot/</guid>
+      <guid>http://chetannc.guthub.io/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>/tags/regression/</link>
+      <link>http://chetannc.guthub.io/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/regression/</guid>
+      <guid>http://chetannc.guthub.io/tags/regression/</guid>
       <description></description>
     </item>
     
