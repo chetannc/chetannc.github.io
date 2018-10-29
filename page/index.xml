@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Chetan Nagabandla</title>
-    <link>http://chetannc.guthub.io/page/</link>
+    <link>/page/</link>
     <description>Recent content in Pages on Chetan Nagabandla</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="http://chetannc.guthub.io/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://chetannc.guthub.io/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://chetannc.guthub.io/about/</guid>
+      <guid>/about/</guid>
       <description>Hi, I am Chetan Chandrashekar. I am a graduate student at the University of Cincinnati.</description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>http://chetannc.guthub.io/search/</link>
+      <link>/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://chetannc.guthub.io/search/</guid>
+      <guid>/search/</guid>
       <description></description>
     </item>
     
