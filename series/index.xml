@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Chetan Nagabandla</title>
-    <link>/series/</link>
+    <link>http://chetannc.guthub.io/series/</link>
     <description>Recent content in Series on Chetan Nagabandla</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://chetannc.guthub.io/series/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
