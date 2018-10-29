@@ -10,21 +10,30 @@
     
     
     <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Hi, I am Chetan Chandrashekar. I am a graduate student at the University of Cincinnati.</description>
-    </item>
-    
-    <item>
       <title>Data Science</title>
       <link>/data-science/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/data-science/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Others</title>
+      <link>/others/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/others/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hi, I am Chetan Nagabandla Chandrashekar, a graduate student at the University of Cincinnati. Click Here for my Resume.</description>
     </item>
     
     <item>

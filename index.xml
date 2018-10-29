@@ -5,19 +5,9 @@
     <link>/</link>
     <description>Recent content in Home on Chetan Nagabandla</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 28 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Hi, I am Chetan Chandrashekar. I am a graduate student at the University of Cincinnati.</description>
-    </item>
     
     <item>
       <title>Data Science</title>
@@ -29,59 +19,21 @@
     </item>
     
     <item>
-      <title>Error post</title>
-      <link>/post/error-post/</link>
-      <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
+      <title>Others</title>
+      <link>/others/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/error-post/</guid>
-      <description>Hello error!</description>
-    </item>
-    
-    <item>
-      <title>New post</title>
-      <link>/post/new-post/</link>
-      <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/new-post/</guid>
-      <description>Hello. Testing the side effects</description>
-    </item>
-    
-    <item>
-      <title>asdfasdf</title>
-      <link>/data_science/asdfasdf/</link>
-      <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/data_science/asdfasdf/</guid>
-      <description>asdf</description>
-    </item>
-    
-    <item>
-      <title>error2</title>
-      <link>/post/error2/</link>
-      <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/error2/</guid>
-      <description>Hello error 2!ddd</description>
-    </item>
-    
-    <item>
-      <title>qwd</title>
-      <link>/post/qwd/</link>
-      <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/qwd/</guid>
+      <guid>/others/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>/about/</guid>
+      <description>Hi, I am Chetan Nagabandla Chandrashekar, a graduate student at the University of Cincinnati. Click Here for my Resume.</description>
     </item>
     
     <item>
