@@ -20,6 +20,15 @@
     </item>
     
     <item>
+      <title>Data Science</title>
+      <link>/data-science/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Error post</title>
       <link>/post/error-post/</link>
       <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
@@ -38,12 +47,30 @@
     </item>
     
     <item>
+      <title>asdfasdf</title>
+      <link>/data_science/asdfasdf/</link>
+      <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/data_science/asdfasdf/</guid>
+      <description>asdf</description>
+    </item>
+    
+    <item>
       <title>error2</title>
       <link>/post/error2/</link>
       <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/error2/</guid>
       <description>Hello error 2!ddd</description>
+    </item>
+    
+    <item>
+      <title>qwd</title>
+      <link>/post/qwd/</link>
+      <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/qwd/</guid>
+      <description></description>
     </item>
     
     <item>

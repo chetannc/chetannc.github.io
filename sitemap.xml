@@ -12,6 +12,10 @@
   </url>
   
   <url>
+    <loc>/data-science/</loc>
+  </url>
+  
+  <url>
     <loc>/post/error-post/</loc>
     <lastmod>2018-10-28T00:00:00+00:00</lastmod>
   </url>
@@ -22,7 +26,17 @@
   </url>
   
   <url>
+    <loc>/data_science/asdfasdf/</loc>
+    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/error2/</loc>
+    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/qwd/</loc>
     <lastmod>2018-10-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -42,6 +56,12 @@
   
   <url>
     <loc>/tags/config/</loc>
+  </url>
+  
+  <url>
+    <loc>/data_science/</loc>
+    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
